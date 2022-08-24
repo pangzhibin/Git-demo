@@ -7,6 +7,6 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
+hello git!   hot-fix test
 版本2
 hot-fix分支
