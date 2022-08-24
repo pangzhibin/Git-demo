@@ -12,3 +12,4 @@ hello git!   hot-fix test
 版本2
 hot-fix分支
 github上书写的
+git-clone test
